@@ -1,6 +1,6 @@
 <xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=";r,O-bUs,n}a;3IMo!bU">myImage</variable></variables><block type="pxt-on-start" id="NDtEr;(8rZ?C-Y;GJbhP" x="0" y="0"><statement name="HANDLER"><block type="device_show_image_offset" id="^L1a6dC6S:|a0iv3$dqn"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="device_build_image" id="9c}VwQT5u3q!qo-cXQSv"><field name="LEDS">`
         # # # # # 
-        . . # . . 
+        . # # # . 
         . . # . . 
         . . # . . 
         # # # # #
