@@ -1,7 +1,7 @@
 <xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=";r,O-bUs,n}a;3IMo!bU">myImage</variable></variables><block type="pxt-on-start" id="NDtEr;(8rZ?C-Y;GJbhP" x="0" y="0"><statement name="HANDLER"><block type="device_show_image_offset" id="^L1a6dC6S:|a0iv3$dqn"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="sprite"><block type="device_build_image" id="9c}VwQT5u3q!qo-cXQSv"><field name="LEDS">`
         # # # # # 
-        . . . . . 
-        . . . . . 
-        . . . . . 
-        . . . . .
-        `</field></block></value><value name="offset"><shadow type="math_number" id="e*du%CY{J)t?E6Iz]g5`"><field name="NUM">0</field></shadow></value></block></statement></block><block type="device_forever" id="whu7XrMq!wdB)V_6*Wat" x="312" y="114"/><block type="variables_get" id="Uonb+}Er~cU~TKZpHQ-{" disabled="true" x="174" y="190"><field name="VAR" id=";r,O-bUs,n}a;3IMo!bU">myImage</field></block></xml>
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # # #
+        `</field></block></value><value name="offset"><shadow type="math_number" id="e*du%CY{J)t?E6Iz]g5`"><field name="NUM">0</field></shadow></value></block></statement></block><block type="variables_get" id="Uonb+}Er~cU~TKZpHQ-{" disabled="true" x="174" y="190"><field name="VAR" id=";r,O-bUs,n}a;3IMo!bU">myImage</field></block><block type="device_forever" id="whu7XrMq!wdB)V_6*Wat" x="8" y="338"/></xml>
